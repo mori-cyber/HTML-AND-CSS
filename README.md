@@ -1,4 +1,4 @@
-Hi in the third course we learned head tags and links, meta, title, and how to define style inside other stages 
+Hi in the third course, we learned head tags and links, meta, title, and how to define style inside other stages 
 1. this is a picture for  assignment 3: 
 ![image](https://github.com/mori-cyber/The-third-HTML-pro/assets/65276280/77f6dbb6-cff4-4634-b681-200dd962679a)
 in the fourth course, we learned CSS base commands, for example, how to take style to h1 to h6 tags, for example, border, background color, border color, border width, border radius, etc.
