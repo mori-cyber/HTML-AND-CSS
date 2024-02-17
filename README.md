@@ -1,3 +1,4 @@
+Hi everyone
 * To This repo We will learn how to create a simple HTML-based web page that includes designing ordered and unordered lists, designing image links, inserting bold images, and italics, and underlining custom words. etc.
 1. this is a picture for assignment 1:
 ![screencapture-file-D-HTML-programming-the-first-Assignment1-html-2024-02-17-12_21_55](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/43fd8e1d-9672-4aba-848c-821d8f36bcb9)
