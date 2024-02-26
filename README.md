@@ -20,11 +20,12 @@ Hi everyone
 ![screencapture-file-D-HTML-programming-The-forth-assignment-4-html-2024-02-17-11_47_55](https://github.com/mori-cyber/The-third-HTML-pro/assets/65276280/edbdfb4d-f813-43dd-84ed-d8418cb06ad6)
 
 * in the fifth section we learned how to define div, margin, padding, font size, font family, background image, etc.
-5. there are pi
+5. there are pictures for assignment 5:
 
   5-1.
 ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-1-html-2024-02-26-13_41_44](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/21a721bf-405c-499a-b5c4-d17620aacb31)
 5-2.
-  ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-3-html-2024-02-26-13_40_16](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/a3e01505-5963-42bb-ad3e-ebf9cd8d6088)
-5-3.
   ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-2-html-2024-02-26-13_39_44](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/3e448ba5-f3c7-41d2-b069-2fea32328e17)
+5-3.
+  ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-3-html-2024-02-26-13_40_16](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/a3e01505-5963-42bb-ad3e-ebf9cd8d6088)
+
