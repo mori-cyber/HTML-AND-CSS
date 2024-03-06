@@ -28,4 +28,18 @@ Hi everyone
   ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-2-html-2024-02-26-13_39_44](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/3e448ba5-f3c7-41d2-b069-2fea32328e17)
 5-3.
   ![screencapture-file-D-HTML-programming-The-fifth-assignment-5-3-html-2024-02-26-13_40_16](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/a3e01505-5963-42bb-ad3e-ebf9cd8d6088)
+* in the sixth section we learn the position, transform: rotate (), list-style-type, float, text-direction, class, hover, etc.
+there are pictures for work output :
+6-1.
+  ![screencapture-file-D-HTML-programming-The-sixth-assignment-1-6-html-2024-03-06-10_14_25](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/9bebdaad-0ea2-4242-a438-ba240c8847cc)
+  6-2.
+  ![screencapture-file-D-HTML-programming-The-sixth-assignment-2-html-2024-03-06-10_16_51](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/3f1d6a49-2fb7-4657-b82f-254b8e4f8da0)
+* in the seventh section we are familiar with transition, flex, etc.
+  this is the output of my work.
+  7.
+  ![screencapture-file-D-HTML-programming-The-seventh-seven-1-html-2024-03-06-10_20_27](https://github.com/mori-cyber/HTML-AND-CSS/assets/65276280/aec00079-4434-4a1a-bcd8-f41099f39731)
 
+  
+  
+
+  
